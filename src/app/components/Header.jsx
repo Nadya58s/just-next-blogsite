@@ -27,6 +27,7 @@ export default function Header() {
           rightIconcon={AiOutlineSearch}
         />
       </form>
+
       <Button className="w-12 h-10 lg:hidden" color="gray" pill>
         <AiOutlineSearch />
       </Button>
